@@ -1,0 +1,12 @@
+body{
+    background-color: grey;
+}
+#cuerpo{
+    background-color: aqua;
+}
+#main-conteiner{
+    max-height: 900px;
+    min-width: 500px;
+    margin: o auto;
+    /*este es clave por que con primero lo pones maximo el segun den minimo y  el tercer que se centre lo estas dicientod don auto*/
+}
