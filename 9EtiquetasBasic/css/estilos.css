@@ -1,0 +1,40 @@
+#cuerpo{
+    background-color: aqua;
+    width: 180px;
+    height: 20px;
+}
+div{
+    height: 170px;
+    width: 30;
+    padding: 10px;
+    border: 5px;
+    border-bottom: 6px;
+    background-color: forestgreen;
+    float: left;
+    
+}
+#main-conteiner{
+    background-color: palevioletred;
+}
+.link {
+    background-color: aqua
+}
+#rojo {
+    background-color: red
+    
+}
+.listaOrdenadas{
+    background-color: #0ff;
+}
+.CuadroEstadistico{
+    background-color: #ffaaaa;
+}
+.CuadroUsuario{
+    background-color: red;
+}
+.parteFormulario{
+    background-color: rgb(123,123,1);
+}
+.temperatura{
+    background-color: rgb(32,42,78);
+}
